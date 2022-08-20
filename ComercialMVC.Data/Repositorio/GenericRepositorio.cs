@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ComercialMVC.Data.Repositorio
 {
-    internal class GenericRepositorio<T> : IGenericRepositorio<T>, IDisposable where T : class
+    public class GenericRepositorio<T> : IGenericRepositorio<T>, IDisposable where T : class
     {
         private readonly ComercialMVCContexto _db;
 
