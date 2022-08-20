@@ -1,0 +1,12 @@
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\bin\Debug\net5.0\ComercialMVC.Dominio.deps.json
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\bin\Debug\net5.0\ComercialMVC.Dominio.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\bin\Debug\net5.0\ComercialMVC.Dominio.pdb
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.csproj.AssemblyReference.cache
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.AssemblyInfoInputs.cache
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.AssemblyInfo.cs
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.csproj.CoreCompileInputs.cache
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\refint\ComercialMVC.Dominio.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ComercialMVC.Dominio.pdb
+C:\Comercial\ComercialMVC\ComercialMVC.Dominio\obj\Debug\net5.0\ref\ComercialMVC.Dominio.dll

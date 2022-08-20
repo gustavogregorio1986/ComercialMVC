@@ -1,0 +1,17 @@
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Servico.deps.json
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Servico.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Servico.pdb
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Data.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Dominio.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Data.pdb
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\bin\Debug\net5.0\ComercialMVC.Dominio.pdb
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.csproj.AssemblyReference.cache
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.AssemblyInfoInputs.cache
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.AssemblyInfo.cs
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.csproj.CoreCompileInputs.cache
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.csproj.CopyComplete
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\refint\ComercialMVC.Servico.dll
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ComercialMVC.Servico.pdb
+C:\Comercial\ComercialMVC\ComercialMVC.Servico\obj\Debug\net5.0\ref\ComercialMVC.Servico.dll
