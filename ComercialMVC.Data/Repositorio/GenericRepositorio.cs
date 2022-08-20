@@ -14,6 +14,11 @@ namespace ComercialMVC.Data.Repositorio
     {
         private readonly ComercialMVCContexto _db;
 
+        public GenericRepositorio()
+        {
+
+        }
+
         public void Adicionar(T entidade)
         {
             _db.Set<T>().Add(entidade);
