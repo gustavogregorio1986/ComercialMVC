@@ -75,3 +75,5 @@ C:\Comercial\ComercialMVC\ComercialMVC\obj\Debug\net5.0\refint\ComercialMVC.dll
 C:\Comercial\ComercialMVC\ComercialMVC\obj\Debug\net5.0\ComercialMVC.pdb
 C:\Comercial\ComercialMVC\ComercialMVC\obj\Debug\net5.0\ComercialMVC.genruntimeconfig.cache
 C:\Comercial\ComercialMVC\ComercialMVC\obj\Debug\net5.0\ref\ComercialMVC.dll
+C:\Comercial\ComercialMVC\ComercialMVC\obj\Debug\net5.0\Razor\Views\Cadastro\Cadastrar.cshtml.g.cs
+C:\Comercial\ComercialMVC\ComercialMVC\obj\Debug\net5.0\Razor\Views\Logar\Login.cshtml.g.cs
