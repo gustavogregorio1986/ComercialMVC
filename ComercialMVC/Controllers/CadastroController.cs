@@ -2,6 +2,7 @@
 using ComercialMVC.Models;
 using ComercialMVC.Servico.Servico;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace ComercialMVC.Controllers
 {
@@ -21,14 +22,21 @@ namespace ComercialMVC.Controllers
 
         public IActionResult CadastrarLogin(LoginView loginView)
         {
-            loginView = new LoginView();
-            Login login = new Login();
-            loginView.IdLogin = login.IdLogin;
-            loginView.Email = login.Email;
-            loginView.Senha = login.Senha;
-            loginView.Perfil = login.Perfil;
-            loginServico.InserirLogin(login);
-            return View("Cadastrar");
+            try
+            {
+                loginView = new LoginView();
+                Login login = new Login();
+                loginView.IdLogin = login.IdLogin;
+                loginView.Email = login.Email;
+                loginView.Senha = login.Senha;
+                loginView.Perfil = login.Perfil;
+                loginServico.InserirLogin(login);
+                return View("Cadastrar");
+            }
+            catch(Exception ex)
+            {
+                throw;
+            }
         }
     }
 }

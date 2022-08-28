@@ -1,4 +1,4 @@
-﻿
+﻿@model ComercialMVC.Models.LoginView
 @*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
@@ -8,3 +8,40 @@
 
 <h2>Cadastro de Login</h2>
 
+<div class="modal-dialog">
+    <div class="modal-content">
+       @using(Html.BeginForm())
+       {
+           <div class="modal-header">
+                <h4 class="modal-title">Cadastrar Login no sistema</h4>
+            </div>  
+            
+             @Html.AntiForgeryToken()
+
+            <div class="modal-body">
+              <div class="form-horizontal">
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+                    <label><span class="control-label col-md-3">Email do Login</span></label>
+                    <div class="col-md-9">
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.Email)
+                    </div>
+                </div>
+
+                 <div class="form-group">
+                    <label><span class="control-label col-md-3">Senha do Login</span></label>
+                    <div class="col-md-9">
+                        @Html.PasswordFor(model => model.Senha, new { @class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.Senha)
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+                <input type="button" value="Cancelar" class="btn btn-default" data-dismiss="modal"/>            
+            </div>
+       }
+    </div>
+</div>
